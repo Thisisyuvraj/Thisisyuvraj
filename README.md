@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Fresher.<br>I'm learning about LLMs and NLP.<br>I was done projects on Machine Learning, Deep Learning, Open CV & more Technologyies.<br>now, I'm looking AIML roles like AI Engineer, ML Engineer, Data Science, Computer Vision. & also Software Engineer roles with Machine Learning intergration
+Currently, I'm Fresher.<br>Now, I'm learning NLP & LLM's.<br>I was done projects on Machine Learning, Deep Learning, Open CV & more Technologies.<br>now, I'm looking AIML roles like AI Engineer, ML Engineer, Data Science, Computer Vision. & also Software Engineer roles with Machine Learning intergration.
 
 
 ## 🌐 Socials:
