@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm Fresher.<br>Now, I'm learning NLP & LLM's.<br>I was done projects on Machine Learning, Deep Learning, Open CV & more Technologies.<br>now, I'm looking for AIML roles like AI Engineer, ML Engineer, Data Science, Computer Vision. & also Software Engineer roles with Machine Learning intergration.
+Hey everyony, I'm Yuvraj Gupta.<br>Currently, I'm the last year student of B.Tech in Computer Science & Engineering with specialization in AIML and I'm passionate for AI & Ml & also for Robotics.<br>Now, I'm learning NLP & LLM's.<br>I was done projects on Machine Learning, Deep Learning, Open CV & more Technologies.<br>now, I'm looking for AIML roles like AI Engineer, ML Engineer, Data Science, Computer Vision. & also Software Engineer roles with Machine Learning intergration.
 
 
 ## 🌐 Socials:
